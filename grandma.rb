@@ -20,7 +20,7 @@ def speak_to_grandma(word)
         return "HUH?! SPEAK UP, SONNY!"
       end
   elsif word == word.upcase
-    return "NO, NOT SINCE 1938!""
+    return "NO, NOT SINCE 1938!"
   else
     return nil
   end
